@@ -4,4 +4,4 @@ Esse projeto foi desenvolvido como trabalho final da disciplina de Programação
 
 Foi utlizado a linguagem <b>Java</b> e a biblioteca <b>javafx</b> para a parte gráfica do jogo. Informações detalhadas sobre o projeto podem ser encontradas nos manuais na pasta ```manuais/``` e o código fonte pode ser encontrado na pasta ```spaceinvadersv2```
 
-Para rodar, digitar ```java -jar SpaceInvadersV2.jar``` ou ```java -jar --module-path ./lib --add-modules javafx.fxml,javafx.controls SpaceInvadersV2.jar``` na pasta ```SpaceInvaders/dist```
+Para rodar, ler as instruções no <b>README</b> da pasta ```SpaceInvadersV2/dist```
